@@ -1,0 +1,11 @@
+GitHub 手动上传
+
+1. 登录 GitHub，确认账号为 dwaker-cller。
+2. 打开 https://github.com/new ，仓库名填写 datasets_dealer，选择 Public，创建仓库。
+3. 在新仓库选择 uploading an existing file。
+4. 上传 datasets_dealer 文件夹内部的 README.md、requirements.txt、上传说明.txt，以及 Algorithm、指标抽取工作台Demo、成果示例三个文件夹。可将这些文件和文件夹一起拖进网页。
+5. 将隐藏文件 .gitignore 一并上传。Windows 资源管理器“查看”中可以启用显示隐藏项目。
+6. 填写提交说明，例如“上传造价指标工作台及核验成果”，点击 Commit changes。
+7. 打开仓库文件列表，核对 README.md 位于仓库根目录，并确认三个子文件夹都已出现。
+
+ZIP 用于保存和传递本次成果。上传源代码时，先解压 ZIP，再上传内部文件和文件夹。

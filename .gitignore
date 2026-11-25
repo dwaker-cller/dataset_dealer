@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+造价数据/
+models/
+2025主网项目指标参考(1).xlsx
+指标抽取工作台Demo/outputs/result_*.json
+指标抽取工作台Demo/outputs/*.xlsx
+指标抽取工作台Demo/outputs/*.ndjson
