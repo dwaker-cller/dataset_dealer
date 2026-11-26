@@ -1,0 +1,37 @@
+{
+  "repository": "https://github.com/dwaker-cller/dataset_dealer",
+  "commit": "a329a5fa213d6c67d4b38a25e64079d593691c12",
+  "backup": "D:\\duan\\Documents\\ChatGPT\\江苏电网\\交付包\\更新前备份_20261125_184934.zip",
+  "updatedFiles": [
+    ".gitignore",
+    "README.md",
+    "requirements.txt",
+    "上传说明.txt",
+    "成果示例\\秀清沛县候选核验结果.xlsx",
+    "成果示例\\菩提候选核验结果.xlsx",
+    "指标抽取工作台Demo\\app.js",
+    "指标抽取工作台Demo\\index.html",
+    "指标抽取工作台Demo\\projects.py",
+    "指标抽取工作台Demo\\server.py",
+    "指标抽取工作台Demo\\style.css",
+    "指标抽取工作台Demo\\verification.js",
+    "指标抽取工作台Demo\\使用说明.md",
+    "指标抽取工作台Demo\\实测说明.md",
+    "指标抽取工作台Demo\\outputs\\candidate_review.json",
+    "指标抽取工作台Demo\\outputs\\chuanshan_archives.json",
+    "指标抽取工作台Demo\\outputs\\cost_reports.json",
+    "指标抽取工作台Demo\\outputs\\document_findings.json",
+    "指标抽取工作台Demo\\outputs\\maoshan_archives.json",
+    "指标抽取工作台Demo\\outputs\\multi_project_records.json",
+    "指标抽取工作台Demo\\outputs\\peixian_archives.json",
+    "指标抽取工作台Demo\\outputs\\puti_archives.json",
+    "指标抽取工作台Demo\\outputs\\verification.json",
+    "指标抽取工作台Demo\\outputs\\xiuqing_archives.json"
+  ],
+  "localSourceBinding": {
+    "file": "造价数据/2025-2-45-江苏镇江圌山220kV输变电工程/2025-2-45-江苏镇江圌山220kV输变电工程/17 决算备案/1、决算-圌山220千伏变电站新建工程.xls",
+    "upstreamSha256": "ed53ed47d30a5eabbb5906c22cccf051b88c829616f43b868f2096621fd6bae1",
+    "localSha256": "45d068f3911e9e2079a5c8574a8de0171698abfbb197201dabb03778261bc016",
+    "validation": "27个历史引用的原始单元格值已逐项回读一致，保留本地已核验原件指纹。"
+  }
+}
